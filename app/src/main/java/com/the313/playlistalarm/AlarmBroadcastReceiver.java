@@ -1,4 +1,4 @@
-package the313.playlistalarm;
+package com.the313.playlistalarm;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package the313.playlistalarm;
+package com.the313.playlistalarm;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("the313.playlistalarm", appContext.getPackageName());
+        assertEquals("com.the313.playlistalarm", appContext.getPackageName());
     }
 }

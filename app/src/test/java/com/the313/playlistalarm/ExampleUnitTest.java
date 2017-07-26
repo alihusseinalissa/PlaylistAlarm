@@ -1,4 +1,4 @@
-package the313.playlistalarm;
+package com.the313.playlistalarm;
 
 import org.junit.Test;
 
