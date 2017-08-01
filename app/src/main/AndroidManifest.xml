@@ -15,10 +15,15 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-        <receiver android:name=".AlarmBroadcastReceiver"/>
 
+        <receiver android:name=".AlarmBroadcastReceiver" />
+
+        <activity android:name=".Main2Activity" />
+        <activity
+            android:name=".frag"
+            android:label="@string/title_activity_frag"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

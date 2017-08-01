@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PlaylistAlarm</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_frag">frag</string>
+
+
+    <string name="reload">Reload</string>
+    <string name="settings">Settings</string>
+    <string name="trash">Delete</string>
+
+
 </resources>
